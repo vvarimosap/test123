@@ -1,1 +1,66 @@
-test
+.hero-video {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+.item__list .item__list--header li {
+  background-color: lightgrey
+    
+}.item__list .item__list--header li {
+  color: black
+}.item__list .item__name {
+  color:black
+}
+.export__cart--link {
+  color: purple
+    
+}
+.new__cart--link   {
+  color: purple
+}
+.save__cart--link, .new__cart--link, .cart__quotes--link {
+  color: purple
+    
+}.cart-top-bar a.help {
+  color: black
+}.glyphicon-option-vertical:before {
+  color: black
+}.glyphicon-info-sign:before {
+  color: black
+    
+}.qty-selector .input-group-btn .btn-default {
+  color: black
+}.qty-selector .input-group-btn .btn-default {
+   border-color: black
+ 
+}*:before, *:after{
+color: black
+  
+  }cms-productreviewscomponent .product-ratings-info .rating-information-links span.read-more-link a, .cms-productreviewscomponent .product-ratings-info .rating-information-links span.write-review-link a {
+    color: white
+
+}.cms-productreviewscomponent .product-ratings-info .rating-information-links span.read-more-link a, .cms-productreviewscomponent .product-ratings-info .rating-information-links span.write-review-link a{
+color: black
+  
+  }.rating a {
+    color: grey
+     
+  }.pdp-compare-action-col .product-comparison-action .btn{
+color: black
+ }.pdp-compare-action-col .product-comparison-action .btn{
+background-color: grey
+  
+
+}.cms-tabscomponent.product-specifications-tabs-container .tabs-content {
+  border-top: 2px solid
+    
+}.cms-tabscomponent.product-reviews-tabs-container .tabs-content {   
+  border-top: 2px solid
+    
+}.cms-tabscomponent.product-additionalinfo-tabs-container .tabs-content {
+  border-top: 2px solid
+    
+}.facet-component .facet-list__item {}a, button{
+  color: black 
+}
